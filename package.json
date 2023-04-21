@@ -1,0 +1,15 @@
+{
+  "name": "async-ladnding",
+  "version": "1.0.0",
+  "description": "Proyecto del curso de asincronismo de JavaScript de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gh-pages": "^5.0.0"
+  }
+}
